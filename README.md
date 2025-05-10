@@ -1,4 +1,3 @@
 # wallpapers
 
-
 Collection of wallpapers.
